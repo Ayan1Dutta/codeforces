@@ -1,0 +1,1 @@
+{"name":"Local: new2","url":"a:\\codeforces\\new2.cpp","tests":[{"id":1649518993909,"input":"3\n2\n5 8\n3\n5 10 15\n4\n4 4 4 4","output":"0\n8\n218"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\codeforces\\new2.cpp","group":"local","local":true}
